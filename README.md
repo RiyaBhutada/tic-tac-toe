@@ -18,7 +18,7 @@ The classic, good old Tic-Tac-Toe
 <br/>
 
 🚀 Steps to Run
-1) Clone the repository "git clone https://github.com/RiyaBhutada/investment-calculator.git"
+1) Clone the repository "git clone https://github.com/RiyaBhutada/tic-tac-toe.git"
 2) Navigate to the folder "cd tic-tac-toe"
 3) Install dependencies "npm install"
 4) Start the development server "npm run dev"
